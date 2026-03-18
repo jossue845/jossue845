@@ -1,12 +1,10 @@
 [![MasterHead](https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jossue Camacho</h1>
-<h3 align="center">A inquisitive, enthusiastic and proud cybersecurity engineer</h3>
+<h3 align="center">A inquisitive, enthusiastic and proud telecommunications engineer</h3>
 
-- 🔭 I’m currently working on **alert triaje**
+- 🔭 I’m currently working on **IoT**
 
-- 🌱 I’m currently learning **Blue team, forensics and OSINT**
-
-- 👯 I’m looking to collaborate on **new cyberdefense techniques**
+- 🌱 I’m currently learning **Distributed systems, IoT, and Localization**
 
 - 📫 How to reach me **jecamacho01@gmail.com**
 
