@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jossue Camacho</h1>
 <h3 align="center">A inquisitive, enthusiastic and proud telecommunications engineer</h3>
 
-- 🔭 I’m currently working on **IoT**
+- 🔭 I’m currently working on **Non-terrestial networks**
 
-- 🌱 I’m currently learning **Distributed systems, IoT, and Localization**
+- 🌱 I’m currently learning **Distributed systems, Defensive and Ofensive cybersecurity, and Localization and Smarth Mobility**
 
 - 📫 How to reach me **jecamacho01@gmail.com**
 
